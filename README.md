@@ -6,12 +6,12 @@ Dash desires to exchange local cash with Dash tokens using the Lamassu BTM.
 
  * Enable a Lamassu BTM to be software-upgraded to buy and sell Dash side-by-side with Bitcoin.
  * Lamassu operators can enable/disable Dash from the admin site.
- * * If enabled, a new screen to choose currency will appear before the buy/sell lander, and other 'BTC' reference in the UI will be changed.
- * * If disabled, the default Lamassu UI has to be exactly as before.
+   * If enabled, a new screen to choose currency will appear before the buy/sell lander, and other 'BTC' reference in the UI will be changed.
+   * If disabled, the default Lamassu UI has to be exactly as before.
  * A complete plugin set (ticker, trade, and wallet) will be created for Dash
- * * Ticker will stream the Dash price from the exchange of choice.
- * * Trade will convert to Dash as the user buys, using the exchange of choice. (Chain fiat->BTC->Dash if necessary)
- * * Wallet will plug in to Dashd via RPC for use as a hot wallet. (or wallet API if preferred)
+   * Ticker will stream the Dash price from the exchange of choice.
+   * Trade will convert to Dash as the user buys, using the exchange of choice. (Chain fiat->BTC->Dash if necessary)
+   * Wallet will plug in to Dashd via RPC for use as a hot wallet. (or wallet API if preferred)
  * Easy to use installation and deployment instructions will be provided.
  * The code has to be maintained, with a 2 year guarantee of functionality.
 
