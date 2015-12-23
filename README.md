@@ -71,7 +71,3 @@ assurance is 8 weeks.
 ## About Deginner
 
 [Deginner](http://deginner.com) was founded in early 2015 by former Coinapult CEO and CTO, [isysd](https://github.com/isysd) and [g-p-g](https://github.com/g-p-g). The Deginner team has built many cryptocurrency services and apps in the past, and now focuses entirely on open source tools. They developed the [lamassu-coinapult](https://github.com/coinapult/lamassu-coinapult) trade, wallet, and ticker plugins, and have good relationships with the Lamassu team, as well as many of their operators. If this project is approved, Deginner will ensure it is deployed on at least one network of BTMs, starting with the one in [Panama City, Panama](http://coinatmradar.com/bitcoin_atm/509/bitcoin-atm-lamassu-panama-virtual-mallbox/).
-
-In line with the open source, collaborative spirit, Deginner usually offers startups a deep discount in return for revenue sharing or similar. This ensures clients properly incentivized support for years to come. To read more about Deginner's philosophy, please visit [rdov.co](http://rdov.co).
-
-By spreading the majority (80%) of the development cost out across 2 years, and accepting Dash at the price at time of signing, the payment value will fluctuate with the long term success or failure of Dash. In this way, the network gets new, valuable, infrastructure at low up front cost, and the long-term support from of a team of open source developers.
