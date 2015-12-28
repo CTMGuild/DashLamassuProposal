@@ -63,8 +63,7 @@ Installer  | 1
 
 Total: 20.5 days
 
-Work can begin immediately upon receiving the initial payment in USD or
-BTC, and a proof of concept transaction on a live machine could be as
+Work can begin immediately upon receiving the initial payment and a proof of concept transaction on a live machine could be as
 soon as 4 weeks later. A more conservative estimate to allow for quality
 assurance is 8 weeks.
 
